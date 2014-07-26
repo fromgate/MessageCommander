@@ -1,0 +1,5 @@
+name: MessageCommander
+main: me.fromgate.messagecommander.MessageCommander
+version: 0.0.2
+author: fromgate, fromgate@gmail.com
+softdepend: [ProtocolLib]
